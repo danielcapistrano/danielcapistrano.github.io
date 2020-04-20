@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Capistrano</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Capistrano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu95ca99d2b8976a25e7739905daee2be0_28078_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel Capistrano</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>What is the ESS?</title>
+      <link>/courses/essr/1_ess/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/essr/1_ess/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;He who leans against a good tree finds good shelter&amp;rdquo; - Sancho&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The European Social Survey (ESS) is a social research project organised and administered by a network of academic institutions. It&amp;rsquo;s main activity is a cross-national survey conducted every two years since 2002, following the highest standards in social survey research.&lt;/p&gt;
+&lt;h3 id=&#34;ess-website&#34;&gt;ESS website&lt;/h3&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.europeansocialsurvey.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESS website&lt;/a&gt; is the best source for all infomation about the survey. There, you will find the questionnaires, technical documentation for each round and country, publications, an online analysis tool, as well as the data itself.&lt;/p&gt;
+&lt;h3 id=&#34;ess-material&#34;&gt;ESS material&lt;/h3&gt;
+&lt;p&gt;Here we describe part of the survey&amp;rsquo;s attributes that you need to know in order to analyse the ESS data. This description is far from complete and if you want a comprehensive and better guide to analyse the ESS data, you shoul take a look at:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Let papers speak and lips be silent&amp;rdquo; - Sancho&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Roger Jowell, Caroline Roberts, Rory Fitzgerald, Gillian Eva. 
+&lt;a href=&#34;https://uk.sagepub.com/en-gb/eur/measuring-attitudes-cross-nationally/book228801&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Measuring Attitudes Cross-Nationally: Lessons from the European Social Survey&lt;/a&gt;. Sage Publications, 2007.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://essedunet.nsd.uib.no&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;European Social Survey Education Net&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;countries&#34;&gt;Countries&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;In each country its custom&amp;rdquo; - Sancho&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;More than 20 countries participate in every round of the European Social Survey.&lt;/p&gt;
+&lt;p&gt;The ESS data is based on representative samples of the national resident population aged 15 or older. Each country is responsible for the translation of the questionnaire, the sample design and the data collection.&lt;/p&gt;
+&lt;p&gt;In practical terms, this means that one must pay attention to some national particularities when analysing the data. Some questions are nationally adapted (political parties, educational levels, religious denominations), some may have a high proportion of missing values, and the data collection periods may differ slightly.&lt;/p&gt;
+&lt;h3 id=&#34;country-specific-questions&#34;&gt;Country-specific questions&lt;/h3&gt;
+&lt;p&gt;In addition to the core questions administered in all countries, additional questions may have been added to national questionnaires. This country-specific data is not included in the final dataset and you will have to download them from a 
+&lt;a href=&#34;https://www.europeansocialsurvey.org/data/country_index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;different area of the ESS website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;rounds&#34;&gt;Rounds&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;All times are not alike&amp;rdquo; - Sancho&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One of the main objectives of the ESS is to capture social change and stability in Europe. For that, data collection is administered every two years during the final quarter of the year of reference. There have been eight rounds of the ESS to date (2002-2016).&lt;/p&gt;
+&lt;p&gt;Some countries, like Ireland, have participated in all rounds since 2002, some only in a few rounds. Here is a 
+&lt;a href=&#34;https://www.europeansocialsurvey.org/data/country_index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;list of countries&lt;/a&gt; and their respective participation in the ESS.&lt;/p&gt;
+&lt;h2 id=&#34;modules&#34;&gt;Modules&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Where one door is shut, another opens.&amp;rdquo; - Quixote&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Apart from the ESS core questions which are asked in every round, there are rotating modules with questions focusing on specific themes.&lt;/p&gt;
+&lt;p&gt;You will find a list of all rotating modules and their specific documentation 
+&lt;a href=&#34;https://www.europeansocialsurvey.org/data/module-index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Install R</title>
+      <link>/courses/essr/2_install/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/essr/2_install/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; is a free software that is widely used for data manipulation and analysis.&lt;/p&gt;
+&lt;p&gt;The software has a command line interface which might discourage those who are not familiar with programming. Therefore, we will use it with 
+&lt;a href=&#34;https://www.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt;, an integrated development environment that will facilitate our work.&lt;/p&gt;
+&lt;p&gt;Here are the steps to install both R and RStudio:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Download R from the 
+&lt;a href=&#34;https://ftp.heanet.ie/mirrors/cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Irish mirror&lt;/a&gt; or any other source 
+&lt;a href=&#34;https://cran.r-project.org/mirrors.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;listed here&lt;/a&gt;. Open the downloaded file and follow the instructions for installation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After installing R, download RStudio installer from here  
+&lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt; and follow the instructions for installation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;rstudio-interface&#34;&gt;RStudio interface&lt;/h2&gt;
+&lt;p&gt;The RStudio interface is divided in four panes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Source&lt;/em&gt; is a notepad for you to write, edit and document your code. What is written here will not be evaluated until you pres &amp;ldquo;Ctrl + Enter&amp;rdquo; or click the &amp;ldquo;Run&amp;rdquo; button on the top of the pane;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Environment&lt;/em&gt; shows the datasets and objects that you have created or loaded;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Files/Viewer&lt;/em&gt; provides an easy access to your folders and files. The pane also shows some outputs in the &amp;ldquo;Viewer&amp;rdquo; tab.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Console&lt;/em&gt; is where most of the output will be shown and where you can also type your code to be run.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+![RStudio interface](./img/panes.jpg)
+&lt;h2 id=&#34;packages&#34;&gt;Installing useful packages&lt;/h2&gt;
+&lt;p&gt;Apart from the basic R functions, there are thousands of packages with additional functions to help users. Two of them are particularly useful for our basic analysis: &lt;em&gt;tidyverse&lt;/em&gt; for data manipulation and visualisation, and &lt;em&gt;essurvey&lt;/em&gt; to easily access and import ESS datasets.&lt;/p&gt;
+&lt;p&gt;To install these packages, open RStudio, type the following line at the console prompt and then hit enter:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;install.packages(c(&amp;quot;tidyverse&amp;quot;, &amp;quot;essurvey&amp;quot;))
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get the data</title>
+      <link>/courses/essr/3_access/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/essr/3_access/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Blessed be all Heaven for sending us an adventure that is good for something!&amp;rdquo; - Sancho&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The data is free for use and publicly available on the ESS website. You have to register on the ESS website to access the data: [http://www.europeansocialsurvey.org/user/new]&lt;/p&gt;
+&lt;p&gt;The registration form has to be filled only once. The email address that you used in your registration will be required to access the ESS data.&lt;/p&gt;
+&lt;h2 id=&#34;importing-rounds-and-countries&#34;&gt;Importing rounds and countries&lt;/h2&gt;
+&lt;p&gt;The package 
+&lt;a href=&#34;#packages&#34;&gt;&amp;ldquo;essurvey&amp;rdquo;&lt;/a&gt; makes it very easy for you to access ESS data directly from R. First, you have to load the package by typing the following line:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;library(essurvey)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then, you can import data for either a specific round or a specific country. For this tutorial, we will work with two datasets:&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;ESS round 8 (2016) with all countries&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_eight &amp;lt;- import_rounds(rounds = 8, ess_email = &amp;quot;_____@___.com&amp;quot;)
+  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_eight &amp;lt;- import_rounds(rounds = 8, ess_email = &amp;quot;danielcapistrano@gmail.com&amp;quot;)
+  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;With this command, we told R to do two actions:&lt;/p&gt;
+&lt;p&gt;a) Import rounds from the ESS repository with the following arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;rounds =&lt;/em&gt; specifies which rounds will be imported. For more than one round, you can use &lt;em&gt;c(6,7,8)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;email =&lt;/em&gt; specifies the user importing the data. Type between quotes the email address that you used for registration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;b) Create a data table from the result of the importation with the name of &lt;em&gt;&amp;ldquo;ess_eight&amp;rdquo;&lt;/em&gt;. The operator &lt;em&gt;&amp;ldquo;&amp;lt;-&amp;quot;&lt;/em&gt; (read assign) is used to give a name (on the left side) to the output of the command that you specified on the right side.&lt;/p&gt;
+&lt;p&gt;After running the command, the console will show a progress bar &amp;ldquo;Dowloading ESS8&amp;rdquo; and, after completion, the &lt;em&gt;environment&lt;/em&gt; pane will show an object called &amp;ldquo;ess_eight&amp;rdquo;.&lt;/p&gt;
+&lt;br&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Ireland dataset for all rounds&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_ireland &amp;lt;- import_all_cntrounds(country = &amp;quot;Ireland&amp;quot;, ess_email = &amp;quot;_____@___.com&amp;quot;)
+  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_ireland &amp;lt;- import_all_cntrounds(country = &amp;quot;Ireland&amp;quot;, ess_email = &amp;quot;danielcapistrano@gmail.com&amp;quot;)
+  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;With this command, R will import all rounds for &amp;ldquo;Ireland&amp;rdquo; and name this new object as &amp;ldquo;ess_ireland&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;essurvey&lt;/em&gt; package has several other features to import or download ESS data. To check all the available functions and options of the package, you can read the package documentation typing the following line:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;help(essurvey)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explore</title>
+      <link>/courses/essr/4_explore/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/essr/4_explore/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;it takes a long time to come to know people, and there is nothing sure in this
+life.&amp;rdquo; - Sancho&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To start exploring the dataset, it is helpful to use the &amp;ldquo;tidyverse&amp;rdquo; package which provides an easier grammar for data manipulation.&lt;/p&gt;
+&lt;p&gt;To load the package:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;library(tidyverse)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;counting&#34;&gt;Counting&lt;/h2&gt;
+&lt;p&gt;The ESS data table is designed with a variable in each column and a respondent in each row. To discover the number of female and male respondents in the eighth round, we can count how many answers we have for each option in the column named &lt;em&gt;&amp;ldquo;gndr&amp;rdquo;&lt;/em&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_eight %&amp;gt;%
+  count(gndr)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The first line defines from which data table I want to extract the data. In this case, ESS 8 with all countries(ess_eight). The operator &lt;code&gt;%&amp;gt;%&lt;/code&gt; (read pipe) is used to connect different commands and can be read as &lt;em&gt;&amp;ldquo;and then&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The second line tells R to &lt;code&gt;count&lt;/code&gt; the values of the column &amp;ldquo;gndr&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;So, you can read this command as &amp;ldquo;take dataset &lt;em&gt;ess_eight&lt;/em&gt; and then count values for &lt;em&gt;gndr&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Your result should be the following:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_eight %&amp;gt;%
+  count(gndr)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;grouping&#34;&gt;Grouping&lt;/h2&gt;
+&lt;p&gt;If we want to see the result for each country (column named &lt;em&gt;&amp;ldquo;cntry&amp;rdquo;&lt;/em&gt;), we can group the &lt;em&gt;ess_eight&lt;/em&gt; data table before counting:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_eight %&amp;gt;%
+  group_by(cntry) %&amp;gt;% 
+  count(gndr)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Outputs in tidyverse  show only the first rows of the output tables. If you want to view the whole output, you can add the command &lt;code&gt;View ()&lt;/code&gt; at the end of your code. You can also save the output in the environment using the assign operator &lt;code&gt;&amp;lt;-&lt;/code&gt; that we mentioned before.&lt;/p&gt;
+&lt;h2 id=&#34;filtering&#34;&gt;Filtering&lt;/h2&gt;
+&lt;p&gt;If we want to see the result for one specific country, we can filter the dataset before counting:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_eight %&amp;gt;%
+  filter (cntry == &amp;quot;IE&amp;quot;) %&amp;gt;% 
+  count(gndr)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In this command, we have to specify a condition with which data will be filtered. In this case the condition is that column &lt;em&gt;cntry&lt;/em&gt; must be equal (==) to the value &lt;em&gt;IE&lt;/em&gt;, which is the country code for Ireland.&lt;/p&gt;
+&lt;h2 id=&#34;weighting&#34;&gt;Weighting&lt;/h2&gt;
+&lt;p&gt;Finally, we have to weight our results to get more accurate estimates of the population that we are analysing. The ESS website has a 
+&lt;a href=&#34;https://www.europeansocialsurvey.org/methodology/ess_methodology/data_processing_archiving/weighting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&lt;/a&gt; and a 
+&lt;a href=&#34;https://www.europeansocialsurvey.org/docs/methodology/ESS_weighting_data_1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;specific guide&lt;/a&gt; to explaing how the weights should be used.&lt;/p&gt;
+&lt;p&gt;For most of our single country analysis, we should use the variable &lt;em&gt;pspwght&lt;/em&gt; which is a combination of the design weight and the post-stratification weight.&lt;/p&gt;
+&lt;p&gt;To weight the results of our query, we add the argument &lt;code&gt;wt&lt;/code&gt; inside the command &lt;code&gt;count&lt;/code&gt; and specify the weight variable.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;ess_eight %&amp;gt;%
+  filter (cntry == &amp;quot;IE&amp;quot;) %&amp;gt;% 
+  count(gndr, wt = pspwght)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Our results changed only slightly in this case, but for other analyses the differences will be much higher for weighted results.&lt;/p&gt;
+&lt;h2 id=&#34;missing-values&#34;&gt;Missing values&lt;/h2&gt;
+&lt;p&gt;Using the default options of the essurvey package, the dataset will be imported in a &lt;em&gt;Stata&lt;/em&gt; format and the missing values will be automatically coded to &lt;code&gt;NA&lt;/code&gt;, which is the symbol for missing values in R.&lt;/p&gt;
+&lt;p&gt;However, if you download the data files from either the ESS website or the R package itself, the missing values (coded as 7, 8 ,9 or 77, 88, 99) might be loaded as ordinary values.&lt;/p&gt;
+&lt;p&gt;If you do not want these values to be considered in the analysis, you have to recode them to &lt;code&gt;NA&lt;/code&gt;. To do that, you can use the following command from the essurvey package:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;recode_missings()
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualise</title>
+      <link>/courses/essr/5_visualise/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/essr/5_visualise/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;All is not gold that glitters&amp;rdquo; - Sancho&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ggplot&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>/courses/essr/6_credits/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/essr/6_credits/</guid>
+      <description>&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;p&gt;This work is part of the European Social Survey activities in Ireland, which are funded by the 
+&lt;a href=&#34;http://www.research.ie&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Irish Research Council&lt;/a&gt;. &lt;em&gt;#LoveIrishResearch&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgment&#34;&gt;Acknowledgment&lt;/h2&gt;
+&lt;p&gt;The inspiration for this tutorial comes from the excellent 
+&lt;a href=&#34;https://ropensci.github.io/essurvey/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; for the  essurvey R package from 
+&lt;a href=&#34;https://cimentadaj.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jorge Cimentada&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sancho&#34;&gt;Why Sancho Panza?&lt;/h2&gt;
+&lt;p&gt;To make this tutorial a bit less dry, I have included a few of Sancho Panza&amp;rsquo;s quotes extracted from an excellent 
+&lt;a href=&#34;https://archive.org/details/sanchopanzasprov00cerv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;compilation of Dom Quixote&amp;rsquo;s proverbs&lt;/a&gt; authored by an Irish scholar: Ulick Ralph Burke.&lt;/p&gt;
+&lt;p&gt;The novel 
+&lt;a href=&#34;https://www.gutenberg.org/ebooks/5903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Don Quixote&lt;/a&gt;, by Miguel de Cervantes, tells the story of a Spanish nobel who decides to seek, as a knight-errant, for the adventures that fascinated him in his chivalry books. For that, he recruits a faithful squire, Sancho Panza, a peasant to whom Dom Quxote promises the title of governor of an island in retribution for his work.&lt;br&gt;
+Don Quixote is described as a tall and thin man, well versed and idealistic. Sancho Panza is short and fat, illiterate and pragmatic. Sancho counterbalances Quixote&amp;rsquo;s literary knowledge with witty proverbs and quotes.&lt;/p&gt;
+&lt;p&gt;Apart from entertaining, Quixote&amp;rsquo;s story tells much about learning experiences which are never solitary, and often full of tensions between courage and fear, excitement and frustration. I hope this tutorial will be of a 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Truth_about_Sancho_Panza&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;good initial inspiration&lt;/a&gt; to your adventures exploring views and attitudes of Europeans.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;&amp;hellip;there is no proverb which is not true, because they are all sentences drawn from experience itself, the mother of all the sciences.&amp;rdquo; - Dom Quixote&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Education and support for a culture of peace</title>
+      <link>/publication/globalchange/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/globalchange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESS</title>
+      <link>/project/external-project/european-social-survey/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/european-social-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Learning</title>
+      <link>/project/external-project/ucd-safe-learning/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/ucd-safe-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World Values Survey</title>
+      <link>/project/external-project/world-values-survey/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/world-values-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Development and Social Support for State Authority in Brazil</title>
+      <link>/publication/societies/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/societies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education statistics production in comparative perspective</title>
+      <link>/publication/estadistica/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/estadistica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political values and the building of public health care systems in Brazil and in the United States</title>
+      <link>/publication/sociedade/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sociedade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The content of globalization for Latin Americans</title>
+      <link>/publication/temas/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O que torna o professor brasileiro satisfeito com sua profissão?</title>
+      <link>/publication/epaa/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/epaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Papel do Estado e Cultura Política na Argentina e no Brasil</title>
+      <link>/publication/opiniao/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/opiniao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultura Política Pós-Consenso de Washington</title>
+      <link>/publication/debates/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/debates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
