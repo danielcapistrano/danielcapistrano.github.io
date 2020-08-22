@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Capistrano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu95ca99d2b8976a25e7739905daee2be0_28078_512x512_fill_lanczos_center_2.png</url>
       <title>Daniel Capistrano</title>
@@ -262,6 +262,169 @@ Don Quixote is described as a tall and thin man, well versed and idealistic. San
     </item>
     
     <item>
+      <title>Gallery</title>
+      <link>/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/gallery/</guid>
+      <description>
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/A.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/A_hu55be3948fa238bd7ee9b19b0d464a14f_609731_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/B.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/B_huab1b4311ef3fdd422ea1dc12a20a764d_2540604_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/C.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/C_hueac36ef79c3ce71430e072191ff11144_2673822_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/D.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/D_hu6c2f32b943a5779f88d9ac1609ca6a43_901063_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/E.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/E_hu15fde915cc9980681976946a4507b063_255044_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/F.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/F_hu5b213cee5df0187bb23c5d1c7b81b2cb_650432_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/G.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/G_hu1ec4c8badaef95218a5c7936b98c2c45_1581845_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/H.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/H_hu5b213cee5df0187bb23c5d1c7b81b2cb_777620_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/I.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/I_hu9be40d9f3aed355f95158f00f784554c_2586941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/J.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/J_hu0b25b7b0c0a9d346549f54c607c85a64_3638621_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/K.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/K_hu17e11a9d964ad0510bbe2e120ad5a02f_947857_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/L.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/L_hu5b213cee5df0187bb23c5d1c7b81b2cb_1632138_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/M.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/M_hueac36ef79c3ce71430e072191ff11144_2511506_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/N.jpg&#34; &gt;
+  &lt;img data-src=&#34;/gallery/gallery/N_hu1ec4c8badaef95218a5c7936b98c2c45_3796287_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Virtual Spaces for Meaningful Development Education in Higher Education</title>
+      <link>/publication/policypractice/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/policypractice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Education and support for a culture of peace</title>
       <link>/publication/globalchange/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -299,6 +462,24 @@ Don Quixote is described as a tall and thin man, well versed and idealistic. San
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>/publication/societies/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
