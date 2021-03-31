@@ -20,12 +20,12 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;He who leans against a good tree finds good shelter&amp;rdquo; - Sancho&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The European Social Survey (ESS) is a social research project organised and administered by a network of academic institutions. It&amp;rsquo;s main activity is a cross-national survey conducted every two years since 2002, following the highest standards in social survey research.&lt;/p&gt;
+&lt;p&gt;The European Social Survey (ESS) is a social research project organised and administered by a network of academic institutions. It&#39;s main activity is a cross-national survey conducted every two years since 2002, following the highest standards in social survey research.&lt;/p&gt;
 &lt;h3 id=&#34;ess-website&#34;&gt;ESS website&lt;/h3&gt;
 &lt;p&gt;The 
 &lt;a href=&#34;http://www.europeansocialsurvey.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESS website&lt;/a&gt; is the best source for all infomation about the survey. There, you will find the questionnaires, technical documentation for each round and country, publications, an online analysis tool, as well as the data itself.&lt;/p&gt;
 &lt;h3 id=&#34;ess-material&#34;&gt;ESS material&lt;/h3&gt;
-&lt;p&gt;Here we describe part of the survey&amp;rsquo;s attributes that you need to know in order to analyse the ESS data. This description is far from complete and if you want a comprehensive and better guide to analyse the ESS data, you shoul take a look at:&lt;/p&gt;
+&lt;p&gt;Here we describe part of the survey&#39;s attributes that you need to know in order to analyse the ESS data. This description is far from complete and if you want a comprehensive and better guide to analyse the ESS data, you shoul take a look at:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Let papers speak and lips be silent&amp;rdquo; - Sancho&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -248,12 +248,12 @@ life.&amp;rdquo; - Sancho&lt;/p&gt;
 &lt;a href=&#34;https://ropensci.github.io/essurvey/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; for the  essurvey R package from 
 &lt;a href=&#34;https://cimentadaj.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jorge Cimentada&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;sancho&#34;&gt;Why Sancho Panza?&lt;/h2&gt;
-&lt;p&gt;To make this tutorial a bit less dry, I have included a few of Sancho Panza&amp;rsquo;s quotes extracted from an excellent 
-&lt;a href=&#34;https://archive.org/details/sanchopanzasprov00cerv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;compilation of Dom Quixote&amp;rsquo;s proverbs&lt;/a&gt; authored by an Irish scholar: Ulick Ralph Burke.&lt;/p&gt;
+&lt;p&gt;To make this tutorial a bit less dry, I have included a few of Sancho Panza&#39;s quotes extracted from an excellent 
+&lt;a href=&#34;https://archive.org/details/sanchopanzasprov00cerv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;compilation of Dom Quixote&#39;s proverbs&lt;/a&gt; authored by an Irish scholar: Ulick Ralph Burke.&lt;/p&gt;
 &lt;p&gt;The novel 
 &lt;a href=&#34;https://www.gutenberg.org/ebooks/5903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Don Quixote&lt;/a&gt;, by Miguel de Cervantes, tells the story of a Spanish nobel who decides to seek, as a knight-errant, for the adventures that fascinated him in his chivalry books. For that, he recruits a faithful squire, Sancho Panza, a peasant to whom Dom Quxote promises the title of governor of an island in retribution for his work.&lt;br&gt;
-Don Quixote is described as a tall and thin man, well versed and idealistic. Sancho Panza is short and fat, illiterate and pragmatic. Sancho counterbalances Quixote&amp;rsquo;s literary knowledge with witty proverbs and quotes.&lt;/p&gt;
-&lt;p&gt;Apart from entertaining, Quixote&amp;rsquo;s story tells much about learning experiences which are never solitary, and often full of tensions between courage and fear, excitement and frustration. I hope this tutorial will be of a 
+Don Quixote is described as a tall and thin man, well versed and idealistic. Sancho Panza is short and fat, illiterate and pragmatic. Sancho counterbalances Quixote&#39;s literary knowledge with witty proverbs and quotes.&lt;/p&gt;
+&lt;p&gt;Apart from entertaining, Quixote&#39;s story tells much about learning experiences which are never solitary, and often full of tensions between courage and fear, excitement and frustration. I hope this tutorial will be of a 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Truth_about_Sancho_Panza&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;good initial inspiration&lt;/a&gt; to your adventures exploring views and attitudes of Europeans.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;&amp;hellip;there is no proverb which is not true, because they are all sentences drawn from experience itself, the mother of all the sciences.&amp;rdquo; - Dom Quixote&lt;/p&gt;

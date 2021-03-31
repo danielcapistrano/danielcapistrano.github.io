@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu95ca99d2b8976a25e7739905daee2be0_28078_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/tag/source-themes/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tag/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attitudes</title>
+      <link>/tag/attitudes/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tag/attitudes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>/tag/education/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tag/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indicators</title>
+      <link>/tag/indicators/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tag/indicators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>socialresearch</title>
+      <link>/tag/socialresearch/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tag/socialresearch/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

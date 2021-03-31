@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Capistrano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu95ca99d2b8976a25e7739905daee2be0_28078_512x512_fill_lanczos_center_2.png</url>
       <title>Daniel Capistrano</title>
@@ -20,12 +20,12 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;He who leans against a good tree finds good shelter&amp;rdquo; - Sancho&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The European Social Survey (ESS) is a social research project organised and administered by a network of academic institutions. It&amp;rsquo;s main activity is a cross-national survey conducted every two years since 2002, following the highest standards in social survey research.&lt;/p&gt;
+&lt;p&gt;The European Social Survey (ESS) is a social research project organised and administered by a network of academic institutions. It&#39;s main activity is a cross-national survey conducted every two years since 2002, following the highest standards in social survey research.&lt;/p&gt;
 &lt;h3 id=&#34;ess-website&#34;&gt;ESS website&lt;/h3&gt;
 &lt;p&gt;The 
 &lt;a href=&#34;http://www.europeansocialsurvey.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESS website&lt;/a&gt; is the best source for all infomation about the survey. There, you will find the questionnaires, technical documentation for each round and country, publications, an online analysis tool, as well as the data itself.&lt;/p&gt;
 &lt;h3 id=&#34;ess-material&#34;&gt;ESS material&lt;/h3&gt;
-&lt;p&gt;Here we describe part of the survey&amp;rsquo;s attributes that you need to know in order to analyse the ESS data. This description is far from complete and if you want a comprehensive and better guide to analyse the ESS data, you shoul take a look at:&lt;/p&gt;
+&lt;p&gt;Here we describe part of the survey&#39;s attributes that you need to know in order to analyse the ESS data. This description is far from complete and if you want a comprehensive and better guide to analyse the ESS data, you shoul take a look at:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Let papers speak and lips be silent&amp;rdquo; - Sancho&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -248,12 +248,12 @@ life.&amp;rdquo; - Sancho&lt;/p&gt;
 &lt;a href=&#34;https://ropensci.github.io/essurvey/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; for the  essurvey R package from 
 &lt;a href=&#34;https://cimentadaj.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jorge Cimentada&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;sancho&#34;&gt;Why Sancho Panza?&lt;/h2&gt;
-&lt;p&gt;To make this tutorial a bit less dry, I have included a few of Sancho Panza&amp;rsquo;s quotes extracted from an excellent 
-&lt;a href=&#34;https://archive.org/details/sanchopanzasprov00cerv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;compilation of Dom Quixote&amp;rsquo;s proverbs&lt;/a&gt; authored by an Irish scholar: Ulick Ralph Burke.&lt;/p&gt;
+&lt;p&gt;To make this tutorial a bit less dry, I have included a few of Sancho Panza&#39;s quotes extracted from an excellent 
+&lt;a href=&#34;https://archive.org/details/sanchopanzasprov00cerv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;compilation of Dom Quixote&#39;s proverbs&lt;/a&gt; authored by an Irish scholar: Ulick Ralph Burke.&lt;/p&gt;
 &lt;p&gt;The novel 
 &lt;a href=&#34;https://www.gutenberg.org/ebooks/5903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Don Quixote&lt;/a&gt;, by Miguel de Cervantes, tells the story of a Spanish nobel who decides to seek, as a knight-errant, for the adventures that fascinated him in his chivalry books. For that, he recruits a faithful squire, Sancho Panza, a peasant to whom Dom Quxote promises the title of governor of an island in retribution for his work.&lt;br&gt;
-Don Quixote is described as a tall and thin man, well versed and idealistic. Sancho Panza is short and fat, illiterate and pragmatic. Sancho counterbalances Quixote&amp;rsquo;s literary knowledge with witty proverbs and quotes.&lt;/p&gt;
-&lt;p&gt;Apart from entertaining, Quixote&amp;rsquo;s story tells much about learning experiences which are never solitary, and often full of tensions between courage and fear, excitement and frustration. I hope this tutorial will be of a 
+Don Quixote is described as a tall and thin man, well versed and idealistic. Sancho Panza is short and fat, illiterate and pragmatic. Sancho counterbalances Quixote&#39;s literary knowledge with witty proverbs and quotes.&lt;/p&gt;
+&lt;p&gt;Apart from entertaining, Quixote&#39;s story tells much about learning experiences which are never solitary, and often full of tensions between courage and fear, excitement and frustration. I hope this tutorial will be of a 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Truth_about_Sancho_Panza&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;good initial inspiration&lt;/a&gt; to your adventures exploring views and attitudes of Europeans.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;&amp;hellip;there is no proverb which is not true, because they are all sentences drawn from experience itself, the mother of all the sciences.&amp;rdquo; - Dom Quixote&lt;/p&gt;
@@ -262,158 +262,35 @@ Don Quixote is described as a tall and thin man, well versed and idealistic. San
     </item>
     
     <item>
-      <title>Gallery</title>
-      <link>/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/gallery/</guid>
-      <description>
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/A.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/A_hu55be3948fa238bd7ee9b19b0d464a14f_609731_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/B.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/B_huab1b4311ef3fdd422ea1dc12a20a764d_2540604_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/C.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/C_hueac36ef79c3ce71430e072191ff11144_2673822_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/D.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/D_hu6c2f32b943a5779f88d9ac1609ca6a43_901063_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/E.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/E_hu15fde915cc9980681976946a4507b063_255044_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/F.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/F_hu5b213cee5df0187bb23c5d1c7b81b2cb_650432_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/G.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/G_hu1ec4c8badaef95218a5c7936b98c2c45_1581845_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/H.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/H_hu5b213cee5df0187bb23c5d1c7b81b2cb_777620_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/I.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/I_hu9be40d9f3aed355f95158f00f784554c_2586941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/J.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/J_hu0b25b7b0c0a9d346549f54c607c85a64_3638621_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/K.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/K_hu17e11a9d964ad0510bbe2e120ad5a02f_947857_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/L.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/L_hu5b213cee5df0187bb23c5d1c7b81b2cb_1632138_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/M.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/M_hueac36ef79c3ce71430e072191ff11144_2511506_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/N.jpg&#34; &gt;
-  &lt;img data-src=&#34;/gallery/gallery/N_hu1ec4c8badaef95218a5c7936b98c2c45_3796287_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
+      <title>Gendering childhood(s) and engagement with schooling in rural Sierra Leone</title>
+      <link>/publication/compare/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/compare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Learning Model Integrating Transformative Gender Approaches to Strengthen Inclusive Pedagogies and Practice</title>
+      <link>/publication/mbsse/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mbsse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generationing education and development in rural Sierra Leone</title>
+      <link>/publication/childhood/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/childhood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Self-Expression Chic? Globalisation, Value Change and Convergence in Latin America</title>
+      <link>/publication/rlop/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rlop/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -462,24 +339,6 @@ Don Quixote is described as a tall and thin man, well versed and idealistic. San
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>/publication/societies/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
     <item>
