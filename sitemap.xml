@@ -1,302 +1,197 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/courses/essr/1_ess/</loc>
+    <loc>https://www.danielcapistrano.com/courses/essr/1_ess/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/essr/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/courses/essr/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/wvsr/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/courses/wvsr/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/essr/2_install/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/courses/essr/2_install/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/essr/3_access/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/courses/essr/3_access/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/essr/4_explore/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/courses/essr/4_explore/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/essr/5_visualise/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/courses/essr/5_visualise/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/essr/6_credits/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/courses/essr/6_credits/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication-type/2/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/agnieszka-sorokowska/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/authors/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/daniel-capistrano/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/mathew-creighton/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/demography/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/piotr-sorokowski/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication_types/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/tag/source-themes/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/tags/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/alemayehu-belachew/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alemayehu-belachew/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/amy-folan/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/amy-folan/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/austin-kennan/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/austin-kennan/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/charlotte-woellwarth/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/ciaran-sugrue/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/charlotte-woellwarth/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/dympna-devine/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ciaran-sugrue/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/elena-samonova/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/daniel-capistrano/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/compare/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/giuseppe-bolotta/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/dympna-devine/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/jennifer-symonds/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/elena-samonova/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/margaret-crean/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/compare/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/rachel-newbery/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/giuseppe-bolotta/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/mbsse/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jennifer-symonds/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/seaneen-sloan/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/margaret-crean/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/rachel-newbery/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/mbsse/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/seaneen-sloan/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/childhood/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/childhood/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/elvis-bisong-tambe/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/elvis-bisong-tambe/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/henrique-de-castro/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/henrique-de-castro/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/rlop/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/rlop/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sonia-ranincheski/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/sonia-ranincheski/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/policypractice/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/policypractice/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gabriela-martinez-sainz/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/gabriela-martinez-sainz/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/globalchange/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/globalchange/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/attitudes/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/tag/education/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/education/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/project/external-project/european-social-survey/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/european-social-survey/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/tag/indicators/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/indicators/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/tag/peace/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/project/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/ucd-safe-learning/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/project/external-project/ucd-safe-learning/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/socialresearch/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/tag/values/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/world-values-survey/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/project/external-project/world-values-survey/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/societies/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/societies/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ana-carolina-cirotto/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/ana-carolina-cirotto/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/carla-nascimento/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/carla-nascimento/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/estadistica/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/estadistica/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/juliana-silva/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/juliana-silva/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/henrique-castro/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/henrique-castro/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/sociedade/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/sociedade/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/temas/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/temas/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/epaa/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/epaa/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/opiniao/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/opiniao/</loc>
     <lastmod>2010-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/debates/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/publication/debates/</loc>
     <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/admin/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/categories/</loc>
+  </url><url>
+    <loc>https://www.danielcapistrano.com/author/daniel-capistrano/</loc>
   </url>
-  
-  <url>
-    <loc>/author/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-  </url>
-  
 </urlset>

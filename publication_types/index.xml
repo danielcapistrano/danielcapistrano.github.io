@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Daniel Capistrano</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.danielcapistrano.com/publication_types/</link>
+      <atom:link href="https://www.danielcapistrano.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu95ca99d2b8976a25e7739905daee2be0_28078_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.danielcapistrano.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <link>https://www.danielcapistrano.com/publication_types/</link>
     </image>
-    
-    <item>
-      <title>2</title>
-      <link>/publication-type/2/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication-type/2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Henrique Castro | Daniel Capistrano</title>
-    <link>/author/henrique-castro/</link>
-      <atom:link href="/author/henrique-castro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.danielcapistrano.com/author/henrique-castro/</link>
+      <atom:link href="https://www.danielcapistrano.com/author/henrique-castro/index.xml" rel="self" type="application/rss+xml" />
     <description>Henrique Castro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu95ca99d2b8976a25e7739905daee2be0_28078_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.danielcapistrano.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Henrique Castro</title>
-      <link>/author/henrique-castro/</link>
+      <link>https://www.danielcapistrano.com/author/henrique-castro/</link>
     </image>
     
     <item>
       <title>The content of globalization for Latin Americans</title>
-      <link>/publication/temas/</link>
+      <link>https://www.danielcapistrano.com/publication/temas/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/temas/</guid>
+      <guid>https://www.danielcapistrano.com/publication/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>O Papel do Estado e Cultura Política na Argentina e no Brasil</title>
-      <link>/publication/opiniao/</link>
+      <link>https://www.danielcapistrano.com/publication/opiniao/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/opiniao/</guid>
+      <guid>https://www.danielcapistrano.com/publication/opiniao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultura Política Pós-Consenso de Washington</title>
-      <link>/publication/debates/</link>
+      <link>https://www.danielcapistrano.com/publication/debates/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/debates/</guid>
+      <guid>https://www.danielcapistrano.com/publication/debates/</guid>
       <description></description>
     </item>
     

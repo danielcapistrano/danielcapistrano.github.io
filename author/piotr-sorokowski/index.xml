@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Piotr Sorokowski | Daniel Capistrano</title>
+    <link>https://www.danielcapistrano.com/author/piotr-sorokowski/</link>
+      <atom:link href="https://www.danielcapistrano.com/author/piotr-sorokowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Piotr Sorokowski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.danielcapistrano.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Piotr Sorokowski</title>
+      <link>https://www.danielcapistrano.com/author/piotr-sorokowski/</link>
+    </image>
+    
+    <item>
+      <title>Physical Spacing and Social Interaction Before the Global Pandemic</title>
+      <link>https://www.danielcapistrano.com/publication/demography/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.danielcapistrano.com/publication/demography/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
