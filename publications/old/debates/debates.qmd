@@ -1,0 +1,18 @@
+---
+title: Cultura Política Pós-Consenso de Washington 
+description: "The article proposes a critical reflection on the concept of civic culture  and its use in the study of political change in Latin America"
+author:
+  - Henrique Castro
+  - Daniel Capistrano
+date: "2008-09-01T00:00:00Z"
+doi: "10.22456/1982-5269.3139"
+image: featured.jpg
+categories:
+  - Political Culture
+  - Brazil
+  - Latin America
+  - State
+---
+
+
+[Full text](https://doi.org/10.22456/1982-5269.3139){.btn .btn-lg .btn-primary} [Citation](./cite.bib){.btn .btn-lg .btn-info}

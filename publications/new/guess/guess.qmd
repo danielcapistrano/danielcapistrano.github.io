@@ -1,0 +1,32 @@
+---
+title: "I guess we are from very different backgrounds"
+subtitle: "Educational Mobility and Attitudes Towards Social Justice in European Societies"
+description: "We investigated the relationship between intergenerational educational mobility and attitudes towards social justice aiming to respond the following main question: Does the experience of educational mobility predict attitudes towards principles of social justice?"
+toc: false
+date: "2023-11-16"
+image: NormalPeople.jpeg
+author: 
+  - Daniel Capistrano
+  - Mathew Creighton
+  - Ebru Işıklı 
+categories:
+  - Social Justice
+  - Education
+  - Mobility
+  - ESS
+  - Europe
+doi: 10.1007/s11205-023-03249-9
+abstract: ""
+---
+
+[Full text](https://doi.org/10.1007/s11205-023-03249-9){.btn .btn-lg .btn-primary} [Pre-print]( https://doi.org/10.31235/osf.io/9j7d4){.btn .btn-lg .btn-light} [Data and Code](https://www.github.com/danielcapistrano/cci_edmobility){.btn .btn-lg .btn-success} [Citation](./cci2023.ris){.btn .btn-lg .btn-info}
+
+# Summary
+
+:::{.column-screen}
+
+
+```{=html}
+<p align="center"><iframe width="100%" height="500" src="https://www.danielcapistrano.com/cci_edmobility/" title="I guess we are from very different backgrounds"></iframe></p>
+```
+:::

@@ -1,0 +1,22 @@
+---
+title: "Statistical Innovation in the Global South"
+subtitle: Mechanisms of Translation in Censuses of Brazil, Ecuador, Ghana and Sierra Leone
+description: "We ask which arrangements of actors, norms and settings are involved in the reception, translation and adaptation of statistical innovation"
+date: "2022-01-01"
+doi: 10.1163/15691330-bja10060
+image: statistical.jpg
+categories:
+  - Census
+  - Brazil
+  - Sierra Leone
+  - Official Statistics
+  - State
+author: 
+  - Byron Villacis
+  - Alena Thiel
+  - Daniel Capistrano
+  - Christyne Carvalho
+---
+
+
+[Full text](https://doi.org/10.1163/15691330-bja10060){.btn .btn-lg .btn-primary}  [Citation](./cite.bib){.btn .btn-lg .btn-info}

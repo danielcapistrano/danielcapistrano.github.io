@@ -1,0 +1,36 @@
+---
+title: " Education censuses and recognition"
+subtitle: "The politics of collecting and using data on indigenous students in Latin America "
+description: "We analised and compared national regulations as well as data collection documentation and instruments from ten Latin American countries"
+toc: false
+date: "2024-02-01"
+image: educensus.jpg
+author: 
+  - Daniel Capistrano
+  - Christyne Silva
+  - Rachel Rabelo
+categories:
+  - Census
+  - Education
+  - Latin America
+  - Methods
+  - State
+  - Policy Analysis
+  - Official Statistics
+doi: 10.4324/9781003259749-5
+abstract: ""
+---
+
+[Full text](https://doi.org/10.4324/9781003259749-5){.btn .btn-lg .btn-primary}  [Data and Code](){.btn .btn-lg .btn-success} [Citation](./ccr2024.ris){.btn .btn-lg .btn-info}
+
+# Updates
+
+::: {.columns}
+::: {.column width="10%"}
+{{< iconify logos eventbrite-icon size=Huge >}}
+:::
+
+::: {.column width="90%"}
+The editor Walter Bartl will present the book in an event hosted by The Institute for Advanced Studies in the Humanities in March 25th. The event will take place at the IASH, in Edinburgh, and will be also stramed online. You can [register for free here](https://www.eventbrite.co.uk/e/book-launch-the-global-politics-of-census-taking-tickets-835901934187). 
+:::
+:::

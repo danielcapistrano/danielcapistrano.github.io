@@ -1,0 +1,17 @@
+---
+title:  O que torna o professor brasileiro satisfeito com sua profissão? 
+description: "Analysis of the level of job satisfaction declared by Brazilian teachers in lower secondary schools"
+author:
+  - Daniel Capistrano
+  - Ana Carolina Cirotto
+date: "2014-12-15T00:00:00Z"
+doi: 10.14507/epaa.v22.1516
+image: epaa.png
+categories:
+- Teachers
+- TALIS
+- Policy Analysis
+- Brazil
+---
+
+[Full text](https://doi.org/10.14507/epaa.v22.1516){.btn .btn-lg .btn-primary}  [Citation](./cite.bib){.btn .btn-lg .btn-info}

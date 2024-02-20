@@ -1,0 +1,31 @@
+---
+pagetitle: "Publications | DanielCapistrano"
+toc: false
+listing:
+  - id: new
+    type: default
+    sort: "date desc"
+    contents: "publications/new/*/*.qmd"
+    fields: [title, author, subtitle, categories, description,date, image]
+  - id: old
+    type: grid
+    grid-columns: 2
+    contents: "publications/old/*/*.qmd"
+    sort: "date desc"
+    categories: true
+    sort-ui: [title, date]
+    filter-ui: [title]
+---
+
+## Latest
+
+:::{#new .column-body-outset-left} 
+:::
+
+
+## Full list
+
+
+:::{#old}
+:::
+

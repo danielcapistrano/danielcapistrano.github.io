@@ -1,0 +1,13 @@
+---
+pagetitle: "Projects | European Social Survey"
+title: European Social Survey
+date: "2020"
+image: ess.jpg
+---
+
+The European Social Survey investigates social attitudes across several European countries since 2002. I participated in the administration of the 9th round in Ireland together with [Philip O'Connell](https://people.ucd.ie/philip.oconnell),  [Mathew Creighton](https://www.mathewcreighton.eu), and [Micheal Collins](https://people.ucd.ie/micheal.collins). 
+
+For more information, visit the Irish website of the ESS:
+<br>
+[European Social Survey](https://ess.ucd.ie/){.btn .btn-lg .btn-dark role="button"}
+

@@ -1,0 +1,21 @@
+---
+title: Physical Spacing and Social Interaction Before the Global Pandemic
+description: "Combining unique data on frequency of contact, religious service attendance and preferred interpersonal spacing in 20 countries, this research note considers variation in the extent to which physical distance was already practiced without official recommendations before the COVID19 pandemic"
+authors:
+  - Mathew Creighton
+  - Daniel Capistrano
+  - Agnieszka Sorokowska 
+  - Piotr Sorokowski 
+date: "2021-10-13T00:00:00Z"
+doi: 10.1177/0907568220981159
+image: spacing.png
+categories:
+  - ESS
+  - COVID19
+  - Policy Analysis
+  - Healthcare
+  - Europe
+---
+
+
+[Full text](https://doi.org/10.1177/0907568220981159){.btn .btn-lg .btn-primary}  [Data and Code](https://github.com/mathewcreighton/social_spacing){.btn .btn-lg .btn-success} [Citation](./cite.bib){.btn .btn-lg .btn-info}

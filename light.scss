@@ -1,0 +1,113 @@
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// $mainfont: "PT Sans", sans-serif;
+
+.navbar-brand > img {
+	max-height: 65px;
+}
+
+.navbar-brand {
+  vertical-align: bottom;
+  padding-bottom: 0;
+}
+
+.navbar{
+  border-bottom:5px solid $dark;
+  padding-bottom: 0;
+  height: 90px;
+}
+
+.section-bg{
+  background: rgba($light, 0.3);
+}
+
+.btn-xlg{
+  min-width: 150px;
+}
+
+h2, .h2 {
+	border-bottom: 5px solid $light;
+	padding-bottom: .5rem;
+}
+
+.quarto-grid-item {
+  border: none;
+  background-color: rgba($light, 0.4);
+}
+
+/* Animated Arrow from https://codepen.io/varystrategic */
+
+$arrow-size: 2em;
+$arrow-color: $success;
+$arrow-color-hover: $light;
+
+.arrow {
+	position: relative;
+	display: inline-flex;
+	vertical-align: middle;
+	width: $arrow-size;
+	height: $arrow-size;
+	overflow: hidden;
+&::after {
+content: '';
+position: absolute;
+top: 50%;
+box-sizing: border-box;
+display: inline-block;
+width: calc($arrow-size * .7071);
+height: calc($arrow-size * .7071);
+border-top: calc($arrow-size / 5 ) solid $arrow-color;
+transition: all 150ms ease-in-out;
+}
+
+&.left {
+&::after {
+  left: calc($arrow-size / 5 );
+  border-left: calc($arrow-size / 5 ) solid $arrow-color;
+  transform-origin: top left;
+  rotate: -45deg;
+}
+
+&:hover::after {
+  box-shadow: calc($arrow-size / -8 ) calc($arrow-size / -8 ) 0 $arrow-color;
+}
+}
+
+&.right {
+&::after {
+  right: calc($arrow-size / 5 );
+  border-right: calc($arrow-size / 5 ) solid $arrow-color;
+  transform-origin: top right;
+  rotate: 45deg;
+}
+
+&:hover::after {
+  box-shadow: calc($arrow-size / 8 ) calc($arrow-size / -8 ) 0 $arrow-color;
+}
+}
+}
+
+a {
+&:hover .arrow {
+&.left,
+&.right {
+  &::after {
+	border-color: $arrow-color-hover;
+  }
+}
+
+&.left {
+  &::after {
+	box-shadow: calc( $arrow-size / -8 ) calc( $arrow-size / -8 ) 0 $arrow-color;
+  }
+}
+
+&.right {
+  &::after {
+	box-shadow: calc( $arrow-size / 8 ) calc( $arrow-size / -8 ) 0 $arrow-color;
+  }
+}
+}
+}

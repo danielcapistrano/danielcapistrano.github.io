@@ -1,0 +1,19 @@
+---
+title: The content of globalization for Latin Americans 
+description: The main goal of this paper is to compare political values and points of view of the Latin Americans citizens on issues related to globalization
+author:
+  - Henrique Castro
+  - Sonia Ranincheski
+  - Daniel Capistrano
+date: "2015-09-01T00:00:00Z"
+doi: 10.35305/tyd.v0i29.302
+image: temas.png
+categories:
+  - Globalisation
+  - Latin America
+  - Political Culture
+  - WVS
+  - State
+---
+
+[Full text](https://doi.org/10.35305/tyd.v0i29.302){.btn .btn-lg .btn-primary}  [Citation](./cite.bib){.btn .btn-lg .btn-info}
