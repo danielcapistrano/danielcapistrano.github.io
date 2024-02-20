@@ -1,0 +1,75 @@
+/*-- scss:rules --*/
+
+.navbar-brand > img {
+  max-height: 65px;
+}
+
+.navbar-brand {
+  vertical-align: bottom;
+  padding-bottom: 0;
+}
+
+.navbar{
+  border-bottom:5px solid #222222;
+  padding-bottom: 0;
+  height: 90px;
+}
+
+
+
+/* Animated Arrow from https://codepen.io/varystrategic */
+
+.arrow {
+	--arrow-size: 7em;
+	--arrow-color:  #0c5a4b;
+	--arrow-color-hover: #ecf0f1;
+	position: relative;
+	display: inline-flex;
+	vertical-align: middle;
+	width: var(--arrow-size);
+	height: var(--arrow-size);
+	overflow: hidden;
+	
+	&::after {
+		content: '';
+		position: absolute;
+		top: 50%;
+		box-sizing: border-box;
+		display: inline-block;
+		width: calc( var(--arrow-size) * .7071);
+		height: calc( var(--arrow-size) * .7071);
+		border-top: calc( var(--arrow-size) / 5 ) solid var(--arrow-color);
+		transition: all 150ms ease-in-out;
+	}
+	
+	&.right {
+		&::after {
+			right: calc( var(--arrow-size) / 5 );
+			border-right: calc( var(--arrow-size) / 5 ) solid var(--arrow-color);
+			transform-origin: top right;
+			rotate: 45deg;
+		}
+
+		&:hover::after {
+			box-shadow: calc( var(--arrow-size) / 8 ) calc( var(--arrow-size) / -8 ) 0 var(--arrow-color);
+		}
+	}
+}
+
+a {
+	&:hover .arrow {
+		&.left,
+		&.right {
+			&::after {
+				border-color: var(--arrow-color-hover);
+			}
+		}
+
+    &.right {
+			&::after {
+				box-shadow: calc( var(--arrow-size) / 8 ) calc( var(--arrow-size) / -8 ) 0 var(--arrow-color);
+			}
+		}
+	}
+}
+

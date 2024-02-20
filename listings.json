@@ -1,0 +1,50 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/new/educensus/educensus.html",
+      "/publications/new/guess/guess.html",
+      "/publications/new/jimi/jimi.html",
+      "/publications/old/advanced/advanced.html",
+      "/publications/old/anatomy/anatomy.html",
+      "/publications/old/crisis/crisis.html",
+      "/publications/old/compsociology/statistical.html",
+      "/publications/old/jacpr/jacpr.html",
+      "/publications/old/talis/index.html",
+      "/publications/old/demography/spacing.html",
+      "/publications/old/compare/compare.html",
+      "/publications/old/childhood/childhood.html",
+      "/publications/old/rlop/rlop.html",
+      "/publications/old/policypractice/index.html",
+      "/publications/old/globalchange/globalchange.html",
+      "/publications/old/societies/index.html",
+      "/publications/old/estadistica/estadistica.html",
+      "/publications/old/sociedade/index.html",
+      "/publications/old/temas/index.html",
+      "/publications/old/epaa/epaa.html",
+      "/publications/old/opiniao/index.html",
+      "/publications/old/debates/debates.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/current/es/EqualStrength.html",
+      "/projects/current/wvs/wvs.html",
+      "/projects/current/cossl/cossl.html",
+      "/projects/previous/safelearning/sls.html",
+      "/projects/previous/ess/ess.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/current/es/EqualStrength.html",
+      "/projects/current/wvs/wvs.html",
+      "/projects/current/cossl/cossl.html",
+      "/publications/new/educensus/educensus.html",
+      "/publications/new/guess/guess.html",
+      "/publications/new/jimi/jimi.html"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+---
+pagetitle: "Projects | Safe Learning"
+title: Safe Learning
+date: "2022"
+image: featured.jpg
+---
+
+In partnership with the UCD School of Education, Concern Worldwide conducted a five-year research study to provide evidence on strategies to improve learning and reduce School Related Gender Based Violence (SRGBV) in Sierra Leone.
+
+The Safe Learning Study involved a randomised control trial of tiered interventions known as the ‘The Safe Learning Model’ in 100 communities.
+
+I worked in the administration of the fieldwork and data analysis together with Dympna Devine, Seaneen Sloan, Ciaran Sugrue, Jennifer Symonds, Elena Samonova, Aimee Smith, and Ryan Gibbons. 
+
+
+For more information, visit the project's website:
+<br>
+[Safe Learning Study](https://safelearning.ie/){.btn .btn-lg .btn-dark role="button"}
+

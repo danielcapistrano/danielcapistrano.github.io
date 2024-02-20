@@ -1,0 +1,28 @@
+---
+title: "About"
+about:
+    template: jolla
+    image: _img/avatar.jpg
+    image-shape: round
+    links:
+     - text: "{{< iconify simple-icons orcid >}} ORCID"
+       href: https://orcid.org/0000-0002-8157-5564
+     - text: "{{< iconify mdi github >}} Github"
+       href: https://github.com/danielcapistrano
+     - text: "{{< iconify academicons google-scholar >}} Scholar"
+       href: https://scholar.google.com/citations?user=6Oz4fHAAAAAJ
+     - text: "{{< iconify academicons lattes >}} Lattes"
+       href: https://lattes.cnpq.br/5757038714266081 
+---
+
+
+I am a Latin American sociologist interested in diverse topics such as education, research methods, and discrimination. My primary 'language' is social sciences, but I am fluent in those languages spoken by statisticians, data scientists and educationalists, as I had the privilege to work among 'natives' from these fields for many years. 
+
+My work stems from this '[interethnic friction](https://onlinelibrary.wiley.com/doi/10.1002/9781118924396.wbiea1825)' experienced in academia ([UnB](http://www.unb.br), [UO](http://www.ox.ac.uk), [UCD](http://www.ucd.ie), [UofT](http://www.utoronto.ca)), government (Inep) and international organisations ([UNESCO](https://uis.unesco.org), [Unicef](https://www.unicef.org/brazil/)).  You can find more information in my CV or in the list of projects and publications. 
+
+You can find information on my CV below, or [download it here](./Capistrano_CV.pdf). 
+
+
+```{=html}
+<p align="center"><iframe width="100%" height="500" src="./Capistrano_CV.pdf" title="Daniel Capistrano"></iframe></p>
+```

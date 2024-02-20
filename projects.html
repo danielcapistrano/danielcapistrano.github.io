@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Daniel Capistrano</title>
+<title>Projects | DanielCapistrano</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -74,20 +74,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-projects .list');
+    const listingTargetEl = window.document.querySelector('#listing-current .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
+    window['quarto-listings']['listing-current'] = new List('listing-current', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -102,20 +102,20 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-publications .list');
+    const listingTargetEl = window.document.querySelector('#listing-previous .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-publications'] = new List('listing-publications', options);
+    window['quarto-listings']['listing-previous'] = new List('listing-previous', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -128,15 +128,6 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VHHCE1VZ2W"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-VHHCE1VZ2W', { 'anonymize_ip': true});
-</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -189,7 +180,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -197,7 +188,7 @@ window.Quarto = {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -222,140 +213,157 @@ window.Quarto = {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./_img/composicao.png" class="img-fluid figure-img" style="width:70.0%" alt="Image with colourful rectangles"></p>
-<figcaption>Image: My collaborators (<a href="./dataviz.html">more here</a>)</figcaption>
-</figure>
+<section id="current-projects" class="level1">
+<h1>Current projects</h1>
+<div id="listing-current" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1708306665908" data-listing-reading-time-sort="1" data-listing-word-count-sort="97">
+<div class="thumbnail">
+<p><a href="./projects/current/es/EqualStrength.html" class="no-external"></a></p><a href="./projects/current/es/EqualStrength.html" class="no-external">
+<p class="card-img-top"><img src="projects/current/es/banner.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./projects/current/es/EqualStrength.html" class="no-external"></a></p>
 </div>
-<section id="latest" class="level1 page-columns page-full">
-<h1>Latest</h1>
-<section id="publications" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<div class="column-body-outset-right">
-<div id="listing-publications" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Census,Education,Latin America,Methods,State,Policy Analysis,Official Statistics" data-listing-date-sort="1706763600000" data-listing-file-modified-sort="1708367807495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
-<a href="./publications/new/educensus/educensus.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./publications/new/educensus/educensus.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Education censuses and recognition
-</h5>
-<div class="card-subtitle listing-subtitle">
-The politics of collecting and using data on indigenous students in Latin America
+<div class="body">
+<h3 class="no-anchor listing-title" data-anchor-id="current-projects">
+<a href="./projects/current/es/EqualStrength.html" class="no-external">EqualStrength</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/current/es/EqualStrength.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./projects/current/es/EqualStrength.html" class="no-external">A European research project investigating cumulative and structural forms of discrimination, outgroup prejudice and hate crimes against ethnic, racial and religious minorities</a>
 </div>
 </div>
-</div>
+<div class="metadata">
+<p><a href="./projects/current/es/EqualStrength.html" class="no-external"></a></p><a href="./projects/current/es/EqualStrength.html" class="no-external">
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Social Justice,Education,Mobility,ESS,Europe" data-listing-date-sort="1700110800000" data-listing-file-modified-sort="1708367787783" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<a href="./publications/new/guess/guess.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./publications/new/guess/NormalPeople.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-I guess we are from very different backgrounds
-</h5>
-<div class="card-subtitle listing-subtitle">
-Educational Mobility and Attitudes Towards Social Justice in European Societies
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1708365467587" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
+<div class="thumbnail">
+<p><a href="./projects/current/wvs/wvs.html" class="no-external"></a></p><a href="./projects/current/wvs/wvs.html" class="no-external">
+<p class="card-img-top"><img src="projects/current/wvs/featured.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./projects/current/wvs/wvs.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/current/wvs/wvs.html" class="no-external">World Values Survey</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/current/wvs/wvs.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./projects/current/wvs/wvs.html" class="no-external">The largest academic social survey project in activity</a>
 </div>
 </div>
-</div>
+<div class="metadata">
+<p><a href="./projects/current/wvs/wvs.html" class="no-external"></a></p><a href="./projects/current/wvs/wvs.html" class="no-external">
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Education,Mobility,ESS,Immigration,Europe" data-listing-date-sort="1659916800000" data-listing-file-modified-sort="1708367758749" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
-<a href="./publications/new/jimi/jimi.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./publications/new/jimi/jimi.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Educational Mobility and Attitudes Towards Migration from an International Comparative Perspective
-</h5>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1706763600000" data-listing-file-modified-sort="1708307354815" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
+<div class="thumbnail">
+<p><a href="./projects/current/cossl/cossl.html" class="no-external"></a></p><a href="./projects/current/cossl/cossl.html" class="no-external">
+<p><img src="./projects/current/cossl/brief.png" class="thumbnail-image"></p>
+</a><p><a href="./projects/current/cossl/cossl.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/current/cossl/cossl.html" class="no-external">University Climate Challenge</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/current/cossl/cossl.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./projects/current/cossl/cossl.html" class="no-external">A project investigating knowledge, anxiety and action related to climate change among students in Higher Education</a>
 </div>
 </div>
+<div class="metadata">
+<p><a href="./projects/current/cossl/cossl.html" class="no-external"></a></p><a href="./projects/current/cossl/cossl.html" class="no-external">
 </a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
 </div>
-<div style="text-align: right">
-<p>
-<a href="./publications.html" class="btn btn-dark btn-lg">See all publications <span class="arrow right"></span></a>
-</p>
+</section>
+<section id="previous-projects" class="level1">
+<h1>Previous projects</h1>
+<div id="listing-previous" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-previous-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-previous'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<section id="projects" class="level2">
-<h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<div id="listing-projects" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1708306665908" data-listing-reading-time-sort="1" data-listing-word-count-sort="97">
-<a href="./projects/current/es/EqualStrength.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="projects/current/es/banner.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-EqualStrength
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1708365467587" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
-<a href="./projects/current/wvs/wvs.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="projects/current/wvs/featured.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-World Values Survey
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1706763600000" data-listing-file-modified-sort="1708307354815" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
-<a href="./projects/current/cossl/cossl.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projects/current/cossl/brief.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-University Climate Challenge
-</h5>
-</div>
-</div>
-</a>
-</div>
-</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-date-sort="1640995200000" data-listing-file-modified-sort="1708295530313" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="94" data-listing-title-sort="Safe Learning" data-listing-filename-sort="sls.qmd">
+<td>
+<span class="listing-date">Dec 31, 2021</span>
+</td>
+<td>
+<a href="./projects/previous/safelearning/sls.html" class="title listing-title">Safe Learning</a>
+</td>
+<td>
+<span class="listing-image"><img src="./projects/previous/safelearning/sls.jpg" style="height: 40px;"></span>
+</td>
+</tr>
+<tr data-index="1" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1708295536604" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49" data-listing-title-sort="European Social Survey" data-listing-filename-sort="ess.qmd">
+<td>
+<span class="listing-date">Dec 31, 2019</span>
+</td>
+<td>
+<a href="./projects/previous/ess/ess.html" class="title listing-title">European Social Survey</a>
+</td>
+<td>
+<span class="listing-image"><img src="./projects/previous/ess/ess.jpg" style="height: 40px;"></span>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
 </div>
-<div style="text-align: right">
-  <p><a href="./projects.html" class="btn btn-dark btn-lg btn-block">See all projects<span class="arrow right"></span></a></p>
-</div>
-</section>
-</div>
-<hr>
-<p>Page built with <a href="https://quarto.org">Quarto</a></p>
 
 
 
-</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
