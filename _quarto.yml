@@ -1,0 +1,43 @@
+project:
+  type: website
+  resources:
+    - CNAME
+  output-dir: docs
+website:
+  title: "Daniel Capistrano"
+  navbar:
+    title: false
+    logo: "img/logo_light.png"
+    logo-alt: "Daniel Capistrano"
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+
+
+
+  page-footer: ""
+  google-analytics: "G-VHHCE1VZ2W"
+  site-url: https://www.danielcapistrano.com
+  repo-url: ""
+  favicon: "img/icon.png"
+  back-to-top-navigation: true
+
+
+format:
+  html:
+    theme:
+      light: [flatly, light.scss]
+      dark: [darkly, light.scss]
+    mainfont: "PT Sans"
+    fontsize: 1.2em
+    smooth-scroll: true
+    toc: true

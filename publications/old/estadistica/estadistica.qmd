@@ -1,0 +1,20 @@
+---
+title: Education statistics production in comparative perspective
+description: Describes how education statistics' production is organized in four countries and it proposes a discussion on the influence exercised by this organization over the use of education statistics 
+authors:
+- Daniel Capistrano
+- Ana Carolina Cirotto
+- Carla Nascimento
+- Juliana Silva
+date: "2016-09-01T00:00:00Z"
+doi: "https://seer.ufrgs.br/estatisticaesociedade/article/view/48639"
+image: featured.jpg
+categories:
+  - Latin America
+  - Education
+  - Official Statistics
+  - Methods
+  - State
+---
+
+[Full text](https://seer.ufrgs.br/estatisticaesociedade/article/view/48639){.btn .btn-lg .btn-primary}  [Citation](./cite.bib){.btn .btn-lg .btn-info}

@@ -1,0 +1,34 @@
+---
+pagetitle: "Projects | University Climate Challenge"
+title: University Climate Challenge
+description: "A project investigating knowledge, anxiety and action related to climate change among students in Higher Education"
+date: "2024-02"
+image: brief.png
+toc: false
+---
+
+# Updates
+
+::: {.columns}
+::: {.column width="10%"}
+{{< iconify flat-color-icons voice-presentation size=Huge >}}
+:::
+
+::: {.column width="90%"}
+Our colleague [Orla Kelly](https://people.ucd.ie/orla.kelly1) will present the first results of our project at the Eastern Sociological Society [2024 Conference](https://www.essnet.org/annual-conference) in Washington, DC.
+:::
+:::
+
+
+
+
+
+# About
+
+The project is based on a collaboration between the School of Education and the School of Social policy, Social Work and Social Justice. The UCD College of Social Sciences and Law provided our research team with funding to investigate students’ understandings, attitudes and actions related to climate change. 
+
+# Website
+
+```{=html}
+<p align="center"><iframe width="100%" height="500" src="https://www.danielcapistrano.com/cossl" title="University Climate Challenge"></iframe></p>
+```
