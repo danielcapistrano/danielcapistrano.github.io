@@ -18,9 +18,7 @@ about:
 
 I am a Latin American sociologist interested in diverse topics such as education, research methods, and discrimination. My primary 'language' is social sciences, but I am fluent in those languages spoken by statisticians, data scientists and educationalists, as I had the privilege to work among 'natives' from these fields for many years. 
 
-My work stems from this '[interethnic friction](https://onlinelibrary.wiley.com/doi/10.1002/9781118924396.wbiea1825)' experienced in academia ([UnB](http://www.unb.br), [UO](http://www.ox.ac.uk), [UCD](http://www.ucd.ie), [UofT](http://www.utoronto.ca)), government ([Inep](https://www.gov.br/inep)) and international organisations ([UNESCO](https://uis.unesco.org), [Unicef](https://www.unicef.org/brazil/)).  You can find more information in my CV or in the list of projects and publications. 
-
-You can find information on my CV below, or [download it here](./Capistrano_CV.pdf). 
+My work stems from this '[interethnic friction](https://onlinelibrary.wiley.com/doi/10.1002/9781118924396.wbiea1825)' experienced in academia ([UnB](http://www.unb.br), [UO](http://www.ox.ac.uk), [UCD](http://www.ucd.ie), [UofT](http://www.utoronto.ca)), government ([Inep](https://www.gov.br/inep)) and international organisations ([UNESCO](https://uis.unesco.org), [Unicef](https://www.unicef.org/brazil/)). You can find more information on my CV below, or [download it here](./Capistrano_CV.pdf). 
 
 
 ```{=html}
