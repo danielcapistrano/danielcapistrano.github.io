@@ -38,7 +38,7 @@ format:
       light: [flatly, light.scss]
       dark: [darkly, light.scss]
     mainfont: "PT Sans"
-    fontsize: 1.2em
+    fontsize: 1em
     page-layout: full
     smooth-scroll: true
     toc: true
