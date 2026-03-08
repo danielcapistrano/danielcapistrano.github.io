@@ -4,7 +4,7 @@ subtitle: "Educational Mobility and Attitudes Towards Social Justice in European
 description: "We investigated the relationship between intergenerational educational mobility and attitudes towards social justice aiming to respond the following main question: Does the experience of educational mobility predict attitudes towards principles of social justice?"
 toc: false
 date: "2023-11-16"
-image: NormalPeople.jpeg
+image: ./NormalPeople.jpeg
 author: 
   - Daniel Capistrano
   - Mathew Creighton

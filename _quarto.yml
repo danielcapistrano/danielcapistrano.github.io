@@ -21,16 +21,12 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
-
-
-
   page-footer: ""
   google-analytics: "G-VHHCE1VZ2W"
   site-url: https://www.danielcapistrano.com
   repo-url: ""
   favicon: "img/icon.png"
   back-to-top-navigation: true
-
 
 format:
   html:

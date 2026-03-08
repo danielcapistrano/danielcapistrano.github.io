@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.danielcapistrano.com/dataviz.html</loc>
-    <lastmod>2024-02-19T11:59:42.000Z</lastmod>
+    <lastmod>2026-03-08T11:02:44.804Z</lastmod>
   </url>
   <url>
     <loc>https://www.danielcapistrano.com/publications.html</loc>
@@ -22,19 +22,23 @@
   </url>
   <url>
     <loc>https://www.danielcapistrano.com/publications/new/jimi/jimi.html</loc>
-    <lastmod>2024-02-19T18:35:58.000Z</lastmod>
+    <lastmod>2026-03-08T13:10:20.853Z</lastmod>
   </url>
   <url>
-    <loc>https://www.danielcapistrano.com/publications/new/guess/guess.html</loc>
-    <lastmod>2024-02-19T18:36:27.000Z</lastmod>
+    <loc>https://www.danielcapistrano.com/publications/new/names/names_sd.html</loc>
+    <lastmod>2026-03-08T13:21:49.261Z</lastmod>
   </url>
   <url>
     <loc>https://www.danielcapistrano.com/publications/old/estadistica/estadistica.html</loc>
     <lastmod>2024-02-19T18:38:14.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.danielcapistrano.com/publications/old/temas/index.html</loc>
-    <lastmod>2024-02-19T18:41:00.000Z</lastmod>
+    <loc>https://www.danielcapistrano.com/publications/old/epaa/epaa.html</loc>
+    <lastmod>2024-02-19T18:37:53.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.danielcapistrano.com/publications/old/medioambiente/medioambiente.html</loc>
+    <lastmod>2026-03-08T13:22:06.942Z</lastmod>
   </url>
   <url>
     <loc>https://www.danielcapistrano.com/publications/old/demography/spacing.html</loc>
@@ -101,16 +105,20 @@
     <lastmod>2024-02-19T18:31:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.danielcapistrano.com/publications/old/epaa/epaa.html</loc>
-    <lastmod>2024-02-19T18:37:53.000Z</lastmod>
+    <loc>https://www.danielcapistrano.com/publications/old/temas/index.html</loc>
+    <lastmod>2024-02-19T18:41:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.danielcapistrano.com/publications/old/educensus/educensus.html</loc>
+    <lastmod>2026-03-08T11:09:13.319Z</lastmod>
   </url>
   <url>
     <loc>https://www.danielcapistrano.com/publications/old/compsociology/statistical.html</loc>
     <lastmod>2024-02-19T18:37:12.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.danielcapistrano.com/publications/new/educensus/educensus.html</loc>
-    <lastmod>2024-02-19T18:36:47.000Z</lastmod>
+    <loc>https://www.danielcapistrano.com/publications/new/guess/guess.html</loc>
+    <lastmod>2026-03-08T13:10:35.206Z</lastmod>
   </url>
   <url>
     <loc>https://www.danielcapistrano.com/projects/previous/safelearning/sls.html</loc>

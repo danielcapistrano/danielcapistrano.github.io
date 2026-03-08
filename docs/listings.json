@@ -2,9 +2,11 @@
   {
     "listing": "/publications.html",
     "items": [
-      "/publications/new/educensus/educensus.html",
+      "/publications/new/names/names_sd.html",
       "/publications/new/guess/guess.html",
       "/publications/new/jimi/jimi.html",
+      "/publications/old/educensus/educensus.html",
+      "/publications/old/medioambiente/medioambiente.html",
       "/publications/old/advanced/advanced.html",
       "/publications/old/anatomy/anatomy.html",
       "/publications/old/crisis/crisis.html",
@@ -42,7 +44,7 @@
       "/projects/current/es/EqualStrength.html",
       "/projects/current/wvs/wvs.html",
       "/projects/current/cossl/cossl.html",
-      "/publications/new/educensus/educensus.html",
+      "/publications/new/names/names_sd.html",
       "/publications/new/guess/guess.html",
       "/publications/new/jimi/jimi.html"
     ]

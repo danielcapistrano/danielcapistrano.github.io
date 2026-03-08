@@ -1,0 +1,40 @@
+---
+title: "The Perception of Names in Experimental Studies on Ethnic Origin: A Cross-National Validation in Europe"
+description: "In this paper, we present the dataset ‘Perceptions of names in Europe’, containing the perceptions of 1078 names studied across nine European countries: Belgium, Czech Republic, Germany, Hungary, Ireland, the Netherlands, Spain, Switzerland, and the United Kingdom."
+author:
+  - Abel Ghekiere
+  - Billie Martiniello
+  - Daniel Capistrano 
+  - Jeremy Kuhnle
+  - Stefanie Sprong 
+  - Pelin Atay
+  - Héctor Cebolla Boado
+  - Mathew Creighton
+  - Valentina Di Stasio 
+  - Mariña Fernández-Reino 
+  - Johanna Hildebrandt
+  - Ketevani Kapanadze 
+  - Vasilena Lachkovska 
+  - Bram Lancee
+  - Isabel Lázaro Bueno 
+  - Josef Montag
+  - Bori Simonovits 
+  - Stephanie Steinmetz
+  - Ely Strömberg
+  - Álvaro Suárez-Vergne 
+  - Sanne van Oosten
+  - Veronika Vass-Vigh 
+  - Susanne Veit
+  - Eva Zschirnt  
+  - Pieter-Paul Verhaeghe 
+date: "2025-11-28T00:00:00Z"
+doi: 10.1038/s41597-025-06153-8
+image: ./names_sd.png
+categories:
+  - Immigration
+  - Europe
+  - Methods
+  - Experiment
+---
+
+[Full text](https://doi.org/10.1038/s41597-025-06153-8){.btn .btn-lg .btn-primary}  [Data and Code](https://doi.org/10.17605/OSF.IO/YD5QV){.btn .btn-lg .btn-success} [Citation](./names_sd.bib){.btn .btn-lg .btn-info}

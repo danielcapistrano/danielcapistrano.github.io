@@ -1,0 +1,21 @@
+---
+title: " El medioambiente como objeto político"
+subtitle: "Aportes desde la cultura política para la construcción de una ciencia política posnormal en América Latina"
+description: "...mostramos cómo las características de la cultura política híbrida latinoamericana y las trayectorias del desenvolvimiento de las relaciones entre Estado y sociedad en la región son elementos explicativos para comprender lo que podríamos denominar como la paradoja de la imaginación ecológica en la región"
+toc: false
+date: "2024-02-01"
+image: ./medioambiente.jpg
+author: 
+  - Sofía Isabel Vizcarra Castillo
+  - Daniel Capistrano
+  - Mariana Alves dos Santos
+categories:
+  - Latin America
+  - Methods
+  - State
+  - Policy Analysis
+doi: 10.18800/debatesensociologia.202501.004
+abstract: ""
+---
+
+[Full text](https://doi.org/10.18800/debatesensociologia.202501.004){.btn .btn-lg .btn-primary}  [Citation](./medioambiente.bib){.btn .btn-lg .btn-info}
